@@ -9,22 +9,22 @@ const HeaderTop = () => {
         {/* Icon Wrapper */}
         <div className="hidden lg:flex gap-1">
           <div className="header_top_icon_wrapper">
-            <a href="mailto:guruprasadgm404@gmail.com" target="_blank" rel="noopener noreferrer">
+            <a href="mailto:likithnirvan@gmail.com" target="_blank" rel="noopener noreferrer">
               <HiOutlineMail />
             </a>
           </div>
           <div className="header_top_icon_wrapper">
-            <a href="https://twitter.com/GuruPrasadGM12" target="_blank" rel="noopener noreferrer">
+            <a href="https://x.com/LNirvsn?s=08/" target="_blank" rel="noopener noreferrer">
               <BsTwitter />
             </a>
           </div>
           <div className="header_top_icon_wrapper">
-            <a href="https://www.linkedin.com/in/guruprasadgm" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/likithnirvan/" target="_blank" rel="noopener noreferrer">
               <BsLinkedin />
             </a>
           </div>
           <div className="header_top_icon_wrapper">
-            <a href="https://github.com/Guruprasad619" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/Likith077" target="_blank" rel="noopener noreferrer">
               <BsGithub />
             </a>
           </div>
